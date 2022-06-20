@@ -1,12 +1,21 @@
-<!DOCTYPE html>                                       ===  html version
+<!DOCTYPE html>                                      
 <html lang="en">  
-<head>                                                === information about the page(meta,links,title)
+<head>                                               
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>                           ===   page title
+    <title>Document</title>                           
 </head>
-<body>                                                === what will be displayed on the page
-    
+<body>                                                
 </body>
 </html>
+
+
+
+<!DOCTYPE html>   = it defines that document is html5 document
+<html>          it is root element of html page
+<head>      it contains meta information about html page
+<title>     it specifies title for the html page which is shown in browsers title bar
+<body>  defines the documents body and its container for all visible contents such as headings,paragraphs,images,hyperlinks
+<h1>     defines a large heading
+<p>     defines a paragraph
