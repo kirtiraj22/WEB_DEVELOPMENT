@@ -1,0 +1,42 @@
+-Attributes provide additional information about elements
+-they are always specified in the start tag
+-they usually come in name/value pairs like : name = "value"
+
+
+=>HREF ATTRIBUTE
+<a href="https://www.google.com">Visit Google</a>
+
+here <a> tag defines hyperlink
+hred is attribute that specifies the URL of the page the link goes to
+
+=>SRC ATTRIBUTE
+<img src = "kirtiraj.jpg" width = "500" height = "600">
+
+the <img> tag is used to display an image in html page
+src attribute specifies the path to the image to be displayed
+
+-ABSOLUTE URL : links to the external image that is hosted on another website
+eg: src="https://www.w3schools.com/images/img_girl.jpg".
+
+-RELATIVE URL : links to an image that is hosted within the website.here url does not include the domain name
+if it starts without a slash then it will be relative to the current page. Example : src = "img_girl.jpg"
+If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
+
+
+-alt attribute for the <img> tag specifies alternate text for an image if the image cannot be displayed due to any reason
+
+
+=>STYLE ATTRIBUTE
+the style attribute is used to add style to an element such as color,font,size,etc
+eg:
+<p style="color:red;">This is a red paragraph</p
+
+
+=>TITLE ATTRIBUTE
+it defines extra information about an element
+
+the value of the title attribute will be displayed as a tooltip if we take the mouse over that element
+
+eg:
+<p title ="i am a tooltip"> write anything </p>
+
