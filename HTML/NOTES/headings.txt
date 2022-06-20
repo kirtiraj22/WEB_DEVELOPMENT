@@ -1,0 +1,9 @@
+headings are titles or subtitles that we want to display on a webpage
+
+<h1> is most important 
+<h6> is the least important
+
+
+h1 has a bigger size so to reduce its size we can use:
+
+<h1 style="font-size=50px;"> heading 1 </h1>
