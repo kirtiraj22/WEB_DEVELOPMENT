@@ -1,0 +1,28 @@
+html HEADINGS are defined with <h1> to <h6> tags
+
+<h1> defines the most important heading
+
+<h6> defines the least important heading
+
+
+
+html PARAGRAPHS are defined with <p> tag 
+eg:
+<p> This is a paragraph </p>
+
+
+
+html LINKS are defined with the <a> tag
+eg:
+
+<a href = "https://www.google.com">This is a link</a>
+
+href specifies the link's destination
+
+
+html IMAGES are defined by <img> tag
+here the SOURCE FILE(src) , ALTERNATIVE TEXT(alt) , WIDTH and HEIGHT  are provided subtitles
+eg:
+
+<img src = "kirtiraj.jpg" alt = "user photo" width = "104px" height = "142px">
+
