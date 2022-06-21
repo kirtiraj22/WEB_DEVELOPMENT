@@ -1,0 +1,77 @@
+The html <style> attribute is used to add styles to an element such as color,font,size and more
+
+syntax:
+
+<tagname style = "property:value;">
+
+here property is a CSS property and value is a CSS value
+
+BACKGROUND COLOR:
+it defines background color of an html element
+eg:
+
+<body style="background-color:powderblue;">
+<h1>heading</h1>
+<p>this is paragraph</p>
+</body>
+
+so here entire background will get powderblue color
+
+
+we can set background color to other different elements also
+<html>
+<body>
+<h1 style = "background-color:cyan;">heading</h1>
+<p style = "background-color:yellow;">paragraph</p>
+<pre style = "background-color:red;">pre
+written 
+text 
+</pre>
+</body>
+</html>
+
+
+TEXT COLOR:
+this CSS property defines color of text for html element
+eg:
+
+<h1 style = "color:cyan;">heading</h1>
+<p style = "color:yellow;">paragraph</p>
+<pre style = "color:red">pre
+defined 
+text
+</pre>
+
+
+FONTS:
+the CSS font-family defines the font
+eg:
+
+<h1 style="font-family:verdana;">This is a heading</h1>
+<p style="font-family:courier;">This is a paragraph.</p>
+<pre style="font-family:arial;">pre
+defined 
+text 
+</pre>
+
+
+TEXT SIZE:
+the CSS font-size defines size of text of html element
+eg:
+<h1 style="font-size:300%;">This is a heading</h1>
+<p style="font-size:160%;">This is a paragraph.</p>
+<pre style="font-size:500%;">pre
+defined 
+text 
+</pre>
+
+
+TEXT ALIGNMENT:
+the CSS text-align property defines the horizontal text alignment for an html element
+eg:
+
+<h1 style="text-align:center;">Centered Heading</h1>
+<p style="text-align:center;">Centered paragraph.</p>
+<pre style="text-align:right;">pre
+defined 
+text
