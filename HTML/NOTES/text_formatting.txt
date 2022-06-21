@@ -1,0 +1,39 @@
+HTML TAGS FOR FORMATING ELEMENTS:
+
+<b>             === Bold text
+<strong>        === important text
+<i>             === italic text
+<em>            ===emphasized text
+<mark>          === marked text
+<small>         === smaller text
+<del>           === deleted text
+<ins>           === inserted text
+<sub>           === subscript text
+<sup>           === superscript text
+
+
+eg:
+<p>This text is normal.</p>
+
+<p><b>This text is bold.</b></p>
+
+<p><strong> This is strong and defines strong importance </strong></p>
+
+<p><i>This is italic </i></p>
+
+<p><em>this is emphasized text </em> </p>
+
+<p><mark>this will be marked </mark> </p>
+
+<p><small>this is small </small></p>
+
+<p><del>this is deleted </del></p>
+
+<p><ins>this is inserted</ins></p>
+
+<p>H<sub>2</sub>O</p>
+
+<p>2<sup>2</sup>= 4 </p>
+
+
+
