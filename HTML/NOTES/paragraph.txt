@@ -1,0 +1,42 @@
+<p> element defines a paragraph
+
+the browser automatically removes extra spaces or lines when it is displayed
+
+
+
+HORIZONTAL RULES:
+
+<hr> tag is used to bring break in html page.
+it is most often displayed as a horizontal rule 
+it is used to seperate content in an html page
+
+BREAK LINES:
+
+the <br> element defines a link break
+we can use br for a new line without starting a new paragraph
+
+PREFORMATED TEXT:
+to show the lines and spaces as it is in the html page, we use preformated text
+the contents inside would be displayed as it is
+
+eg:
+
+<pre>
+hi 
+there
+</pre>
+
+output:
+hi 
+there
+
+but if we use paragraph instead of preformated text then:
+<p>
+hi
+there
+</p>
+
+output:
+hi there 
+
+so we can see that paragraph avoids any white space between two words
