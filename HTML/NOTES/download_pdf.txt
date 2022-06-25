@@ -9,7 +9,7 @@ EG:
     <title>To download pdfs</title>
 </head>
 <body>
-    <a href="pdfname.pdf">DOWNLOAD NOW</a> 
+    <a href="pdfname.pdf" download>DOWNLOAD NOW</a> 
 </body>
 </html>
 
