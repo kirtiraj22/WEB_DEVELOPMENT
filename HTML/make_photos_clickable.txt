@@ -1,0 +1,15 @@
+we can make images clickable simply by enclosing it inside anchor tag
+
+eg:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>To make photos clickable</title>
+</head>
+<body>
+    <a href="http://www.cred.com">
+        <img src="cred.jpg" alt="cred icon">
+    </a> 
+</body>
+</html>
