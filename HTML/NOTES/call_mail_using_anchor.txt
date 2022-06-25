@@ -1,0 +1,31 @@
+we can make a call or mail directly by anchor tag (a href tag)
+
+TO DO THAT WE NEED TO USE:
+
+1)tel:      to call
+2)mailme:   to mail
+
+eg:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>email and phone using anchor tag</title>
+</head>
+<body>
+    <a href="tel:7990532202">call</a>
+    <br>
+    <br>
+    <a href="mailto:kirtirajpatanwadia064@gmail.com">mail</a>
+</body>
+</html>
+
+
+
+
+so we need to write:
+
+<a href "mailto:user's email">any message</a>
+
+OR
+
+<a href= "tel:user's mobile number">any message</a>
