@@ -1,0 +1,15 @@
+to download pdfs from a website we can use anchor tag
+
+
+EG:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>To download pdfs</title>
+</head>
+<body>
+    <a href="pdfname.pdf">DOWNLOAD NOW</a> 
+</body>
+</html>
+
