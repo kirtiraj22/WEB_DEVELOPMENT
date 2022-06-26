@@ -1,0 +1,42 @@
+TABLES allow web developers to arrange data into rows and columns/
+
+we have to write everything inside th table tag
+TAGS:
+
+<th>  : this is for table header 
+<td>  : this is for table data
+<tr>  : this is for table row
+
+EG:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TABLES</title>
+</head>
+<body>
+    <table border="1" cellspacing="0" cellpadding="5">
+        <thead>
+            <tr>
+                <th>username</th>
+                <th>password</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>kirtiraj</td>
+                <td>Thakor</td>
+            </tr>
+            <tr>
+                <td>kirti</td>
+                <td>raj</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
+
+NOTE : in line 21 we use table border ="1" to make a border inside the table
