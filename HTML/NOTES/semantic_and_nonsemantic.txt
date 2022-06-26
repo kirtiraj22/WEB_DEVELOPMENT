@@ -1,0 +1,30 @@
+SEMANTIC ELEMENTS : elements with a meaning
+for eg:
+<header>
+<nav>
+<main>
+<section>
+<table>
+<form>
+<footer>
+
+
+NON-SEMANTIC ELEMENTS : elements with no meaning
+eg:
+<div>
+<span>
+
+
+many websites contain html code like:
+
+<div id = "nav">
+<div class = "header">
+<div id ="footer"> 
+this is to indicate navigation,header and footer respectively
+
+
+but now in html55 there are some semantic elements that can be used to define different parts of webpage directly
+eg:
+<header>
+<nav>
+<footer>
