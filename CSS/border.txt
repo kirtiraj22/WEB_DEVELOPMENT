@@ -1,0 +1,8 @@
+BORDER PROPERTIES IN CSS:
+
+=>the border properties allows us to specify how the border of the box representing an element
+should look.
+=>border-color : specifies the color of the border
+=>border-style : specifies whether a border should be solif,dashed line,double line
+  or one of the possible values
+=>border-radius : allows us to make a border in circular shape
