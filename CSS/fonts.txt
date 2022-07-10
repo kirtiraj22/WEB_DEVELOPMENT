@@ -1,0 +1,6 @@
+FONT PROPERTIES:
+=>font-family : used to change the face of a font
+=>font-style : used to make a font italic or oblique
+=>font-variant : used to create a small-caps effect
+=>font-size : used to set size of the text
+=>font-weight : used to specify the weight of the font
