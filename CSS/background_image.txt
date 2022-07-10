@@ -1,0 +1,19 @@
+
+=>BACKGROUND IMAGE : we can include an image in a background with this property
+syntax:
+background-image: url('image.png');
+
+-here if we use background-image it will be repeated many times so to avoid it we need to use
+background-repeat: no-repeat;
+
+-if we want to repeat the image horizontally then we need to write
+background-repeat: repeat-x;
+
+-if we want to repeat the image vertically then we need to write
+background-repeat: repeat-y;
+
+-if we want the single image to be perfectly alligned in center with proper  height then we need to use"
+background-size: 100% 100%;
+
+-if we want to control the scrolling of an image in the background the we need to use
+background-attachment: fixed;
