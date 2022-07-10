@@ -1,0 +1,7 @@
+TEXT PROPERTIES IN CSS
+=>color : used to set the color of text
+=>direction property : used to set text direction [rtl(right to left) or ltr(left to right)]
+=>letter-spacing : used to add or subtract space between the letters that make up a word
+=>word-spacing : used to add or subtract space between words of a sentence
+=>text-indent : used to indent the text of a paragraph
+=>text-align : used to align the text of a document
