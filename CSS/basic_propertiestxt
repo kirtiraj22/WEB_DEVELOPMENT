@@ -1,0 +1,13 @@
+TO SELECT THE WHOLE PAGE WE NEED TO USE ASTERIK(*)
+
+an ideal page contains  the following code:
+*{
+  margin:0;
+  padding:0;
+}
+
+=> COLOR:
+three ways to use colors:
+1)directly writing a valid color name like red
+2)hex value : eg "#ff0000"
+3)RGB value like "rgb(255,0,0)"
