@@ -1,0 +1,14 @@
+CSS ID:
+the id selector is used to specify a style for a SINGLE unique element
+
+CSS CLASS
+the class selector is used to specify a style for a GROUP of elements
+
+with the help of class and id we can access HTML tags and elements
+
+NOTE 
+
+#ID_name is used to access the id from html
+
+.CLASS_name is used to access the class from html
+
