@@ -1,0 +1,6 @@
+LINKS IN CSS:
+
+:link = this signifies unvisited hyperlinks
+:visited = this signifies visited hyperlinks
+:hover = this signifies an element that currently has the users mouse pointer hovering over it
+:active = this signifies an element on which the user is currently clicking
